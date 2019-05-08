@@ -47,8 +47,6 @@ export default function createServer(
         <input type="button" onclick="location.reload();" value="reconnect" />
       </div>
     </div>
-    <div id="options">
-    </div>
     <div id="terminal"></div>
     <script src="${basePath}/public/index.js"></script>
   </body>
