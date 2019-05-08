@@ -48,10 +48,6 @@ export default function createServer(
       </div>
     </div>
     <div id="options">
-      <a class="toggler"
-         href="#" 
-         alt="Toggle options"><i class="fas fa-cogs"></i></a>
-      <textarea class="editor"></textarea>
     </div>
     <div id="terminal"></div>
     <script src="${basePath}/public/index.js"></script>
